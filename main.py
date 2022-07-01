@@ -17,3 +17,8 @@ if __name__ == '__main__':
 
 print("Lets")
 print("Something else was added")
+
+
+a = 34
+b = 46
+print a + b
