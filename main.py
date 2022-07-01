@@ -22,3 +22,7 @@ print("Something else was added")
 a = 34
 b = 46
 print a + b
+
+d = 25
+
+d%%a
